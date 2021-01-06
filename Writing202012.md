@@ -589,23 +589,26 @@ Disagree
 Agree
 
 + P2: sport - : 
-
   + sport is only a game
   + sports have little effect on our life (works, relationship).
   + play sport for utilitarian purpose (children, no interest)
   + Some people indulge in the result of sports game
-
 + P3: sports +:
-
   + children learn sportsmanship
   + learn lesson from failure(face win or lose)
-
 + P4: sports+:
-
   + perseverance(help us proceed further in our work/ career)
   + practice makes perfect
 
-  
+
+
+##### 任务
+
+小作文 模板记忆 + 写15篇
+
+大作文 17/18 复习； 另外19/20 过一下，不同话题各两篇
+
+中间模考，一周1~2次 （阅读听力连在一起）
 
 
 
