@@ -145,6 +145,36 @@ Many years +
 
 
 
+##### 20180826
+
++ 开头：Which way  is more effective in improving performance has triggered discussions. While conventional wisdom might prefer doing more extra work than given with , I believe that by participating more actively or contributing our idea more frequently in group discussions is a better choice. 
++ P2S1: To be sure, 1+
+  + Study: more familiar
+  + work: finish the task more efficiently
++ P3S1: 1-
+  + Study: merely doing more extra work does not necessary mean students will have a deeper and thorough understanding about the course.  (blind spot)
+  + Work: tired, worse performance.
++ P4S1: 2+ 
+  + Study: diverse perspective
+  + Work: better relationship with colleagues (more likely to be promoted)
+
+##### 20180324
+
+The statement asserts that people should devote time to relax with hobbies or activities that with what they do at work. While conventional wisdom might be oppose the argument, I contend that enjoying entertainments that are different from what we do at work has its merits.
+
++ P2S1 To be sure, the naysayer of the statement might argue that ...
+  + Similar + 
+    + hone over the skill
+    + No need to overcome the learning curve to build a habit
++ P3S1
+  + Similar -
+    + blurring the line between work and life.
+    + Less passion in the work (not that professional )
++ P4S1
+  + Different +
+    + extend social circle; enriching one's life.
+    + innovative 
+
 #### Environment
 
 **选择保护环境**
@@ -350,3 +380,234 @@ P3 indicate -
 
 + unifrom
 + social scenarios (concert/ sports game)
+
+##### 20181117
+
++ P2 1&2 +
+  + 1+: encountering difficulties,  people will turn to friends for help and will have much shared time.
+  + 2+: less conflicts
++ P3 1&2 is not the most important. 
+  + people will forgive if friends cannot give timely support
+  + Sometimes people will make friends with someone totally different from their own so as to learn from their friends.
++ P4 3+
+  + If not trust, friends will guard against each other.
+  + If trust, sharing more emotions. 
+
+
+
+##### 20181110
+
+disagree, 基本立场：友谊是好的
+
+一个例子走多个点（文章体系性强）
+
++ P2 competition can sometimes harm the relationship
+  + competition runs counter to the essence of friendship
+  + Competition: self-focus
+  + The essence of friendship is mutual support
++ P3 not necessary negative
+  + friends in a competition will also help each other.
+  + Competition as to friends is not zero-sum, but a win-win situation. (背单词)
++ P4 positive
+  + see the strength of the friends
+  + more shared time with friends. (otherwise, people busy with own their own tasks) 
+
+***
+
+#### 常见思路
+
+
+
++ **#social**: 鼓励social, 见粉红书Page 62. 阴影部分句子可以积累
+
+  **Page 68** 
+
++ **#diverse-creativity**: Page 19. 
+
++ **#focus - expert**: `10000 hours expert`
+
++ **#happiness**: Social - happiness; Environment - happiness
+
++ **# parenting (independent)**: P2 -> independent ; P3 -> not help ; P4 -> help + (1. parents know more about children; 2. children trust parents more)
+
++ **# friends**: 整体思路是朋友是好的。分红书page 22/ page 82。
+
+  表达方式：intimate / solid friendship. 
+
++ #**今**昔对比: 突出对比。写过去一般用过去式。
+
++ **忙-rest**: rest ✔;
+
+  + page 35 
+  + page 37 
+
++ **#digital distraction**: 
+
+  + page 68
+
++ **#teachers**:
+
+  + page 44
+  + page 46
+
++ **#leader & organization**:
+
+  + page 107
+  + page 109
+  + positive working organization
+    + boost collaborative and creative thinking
+    + buffer against negative emotion
+    + retain and attract talents
+
++ **#environment**:
+
+  + mental health  | page 28,31 
+  + physical health    | page 32
+
++ **#physical exercise**:
+
+  + keep fit
+  + Boost cognitive skill
+  + page 103
+
+***
+
+#### Hppiness and Family
+
+##### 20181013
+
+夸奖social activity
+
+对effect 处理不要写复杂，比如说正反面影响
+
++ P2 job+ 
+
+  + $ - material life
+  + sense of success 
+
++ P3 It goes too far to say job has a greater effect...
+
+  + $ - happiness != material good
+  + Some people work merely for the sake of money
+
++ P4 social activity+ 
+
+  + social life accounts for larger proportion of people's daily life : data.  	
+
+  + social life has a longer-lasting influence on people's emotion. 	 
+
+    ​	
+
+##### 20181125
+
+今昔对比：今天好，easy, agree
+
+全文都围绕现在（好/不好）
+
++ P2S1: To be sure, the naysayer of the statement would argue that modern parents face more challenges compared with their counterparts in the past.   (Now demanding) 需要出现比较（现在过去）
+
+  + <p style="color:red">simple toy VS. iPad</p>
+
+  + <p style="color:blue">Time (parents nowadays are busier than those in the past) </p>
+
++ P3S1: However, the modern trends, from technological development to academic progress, also ease modern parents' efforts in raising their children.  (Facilitate modern parents)
+
+  + technology: Youtube video on child raising. 
+  + Social service - child care
+
++ P4S1: Moreover, the development of the modern society also leaves parents easier to raise children. 
+
+  + government - high-quality public education, lower the cost
+  + Medical service ↑
+
+#### Teachers & Facilities
+
+##### 20180908
+
++ P2 
+  + Distract
+  + Confuse - different from the professor has taught
+
++ 
+
+##### 20180602
+
++ P2: 1+
+  + students: direct
+  + teachers: show more concern
++ P3: 1-
+  + students: standard
+  + teachers:
++ P4: 2+
+  + teachers have a more professional understanding about what is good teaching.
+  + teachers can learn from each other through the whole process.
+
+***
+
+#### Government & well-being
+
+##### 20181028
+
++ P2 2&3 +
+  + 2: health
+  + 3: Less financial burden
++ P3 2&3 - 
+  + 2- : add government budget pressure, cannot last long
+  + 3-:  only a small number of people can live in affordable housing
++ P4 1+
+  + residents - income - material life
+  + Government - tax income
+
+##### 20181111 (Similar: LAB 53)
+
++ P2 already do something
+  + newspaper / magazine / advertise
+  + Food package
++ P3 not enough
+  + social media, apart from traditional media
+  + restaurants menu also need to list the ingredients
++ P4 can do more
+  + Tax
+  + nutrition knowledge
+
+##### 20181104
+
+Disagree
+
++ P2: should 
+  + employed: learn new skill - promote
+  + unemployed: find new jobs
++ P3: it goes to far to require all
+  + employed: already tired
+  + unemployed: may not meet the companies' requirements
++ P4:  not practical
+  + too ambitious - large budget
+  + cannot guarantee the training effectiveness
+
+##### 20180415
+
+Agree
+
++ P2: sport - : 
+
+  + sport is only a game
+  + sports have little effect on our life (works, relationship).
+  + play sport for utilitarian purpose (children, no interest)
+  + Some people indulge in the result of sports game
+
++ P3: sports +:
+
+  + children learn sportsmanship
+  + learn lesson from failure(face win or lose)
+
++ P4: sports+:
+
+  + perseverance(help us proceed further in our work/ career)
+  + practice makes perfect
+
+  
+
+
+
+
+
