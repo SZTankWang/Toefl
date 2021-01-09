@@ -33,9 +33,15 @@ For example/ take ... as an example / So...
 
 引入部分会有重复的点，可以不用全讲
 
-对应例子部分 剩余40-35 sec 要开始，例子部分要精讲
+**对应例子部分 剩余40-35 sec 要开始，例子部分要精讲**
 
 回答中尽量用statement的方式，不用 quote
+
+
+
+过程描述题：
+
+过程的重复部分可以用general 的方式概括 (the same / so on)
 
 ***
 
@@ -66,3 +72,6 @@ For example/ take ... as an example / So...
 1个例子：对应部分打勾
 
 rehearse : 不重要划掉
+
+
+
